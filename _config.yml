@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Louye Wang""
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Louye Wang"
+  avatar           : "profile.jpg"
+  bio              : 
   location         : "Edinburgh, Scotland"
   employer         :
   pubmed           : 
