@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 # About Me
-* I am a MSc Student in the School of Informatics at University of Edinburgh.
+* I am currently a Data Science MSc student in the School of Informatics at University of Edinburgh, advised by [Prof. Aggelos Kiayias](https://www.kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html) and [Prof. Maria Wolters](https://www.designinformatics.org/person/maria-wolters/). 
+
+During my master, I mainly focus on ...
+
+
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
