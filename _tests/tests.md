@@ -8,4 +8,5 @@ redirect_from:
   - /tests/
   - /tests.html
 ---
+# Testing!
 This is a test!
