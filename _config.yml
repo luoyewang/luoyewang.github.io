@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luoye Wang"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Luoye Wang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Louye Wang"
+  name             : "Luoye Wang"
   avatar           : "profile.JPG"
   bio              : 
   location         : "Edinburgh, Scotland"
