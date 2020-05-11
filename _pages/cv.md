@@ -10,12 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-[点击此处下载中文版cv](http://academicpages.github.io/files/王洛野_中文简历.pdf)
-Education
-======
-* 爱丁堡, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[点击此处下载中文版cv](http://academicpages.github.io/files/LuoyeWang_Chinese_CV.pdf)
+
+# Education
+
+* 数据科学硕士，爱丁堡大学 信息学院，2019.09 - 2020.11
+* 数学与经济学学士，新泽西州立罗格斯大学，2012.09 - 2016.06
+* 数学与统计学交换生，伦敦大学学院，2014.09 - 2015.06
 
 Work experience
 ======
