@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[点击此处下载中文版cv](http://academicpages.github.io/files/LuoyeWang_Chinese_CV.pdf)
+[中文版简历PDF下载](http://luoyewang.github.io/files/王洛野_中文简历.pdf)
 
 # Education
 
