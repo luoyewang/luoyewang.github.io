@@ -4,7 +4,8 @@ permalink: /tests/
 title: "tests"
 author_profile: true
 redirect_from:
-
+  - /tests/
+  - /tests.html
 ---
 
 
