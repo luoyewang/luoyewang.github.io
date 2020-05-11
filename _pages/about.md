@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/luoyewang/luoyewang.github.io/tree/master/images/profile.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/luoyewang/luoyewang.github.io/tree/master/images/profile.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
-# About Me
-* I am currently a Data Science MSc student in the School of Informatics at University of Edinburgh, advised by [Prof. Aggelos Kiayias](https://www.kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html) and [Prof. Maria Wolters](https://www.designinformatics.org/person/maria-wolters/). 
+# 我叫AroyalWang(王洛野)
+* 我目前是爱丁堡大学信息学院数据科学的研究生。
+
+I am currently a Data Science MSc student in the School of Informatics at University of Edinburgh, advised by [Prof. Aggelos Kiayias](https://www.kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html) and [Prof. Maria Wolters](https://www.designinformatics.org/person/maria-wolters/). 
 
 During my master, I mainly focus on ...
 
