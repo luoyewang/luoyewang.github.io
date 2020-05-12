@@ -38,7 +38,7 @@ redirect_from:
   
   荣誉毕业生, 综合GPA: 3.73/4.00, 专业GPA :3.85/4.00
 
-### 数学与统计学交换生 @[伦敦大学学院](https://www.ucl.ac.uk/maths/)    2014.09 - 2015.06
+### 数学与统计学交换生 @[伦敦大学学院数学系](https://www.ucl.ac.uk/maths/)    2014.09 - 2015.06
   
   First Class, 综合GPA: 3.83/4.00
 
