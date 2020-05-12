@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Luoye Wang"
-description              : &description "personal description"
+description              : &description "Data Science MSc student, School of Informatics, University of Edinburgh"
 url                      : https://luoyewang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luoyewang/luoyewang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luoye Wang"
   avatar           : "profile.JPG"
-  bio              : 
+  bio              : "Data Science MSc student, School of Informatics, University of Edinburgh"
   location         : "Edinburgh, Scotland"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "aroyalwong@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
