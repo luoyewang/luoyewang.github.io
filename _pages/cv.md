@@ -26,17 +26,19 @@ redirect_from:
 # 简历
 
 ## 教育背景
-数据科学硕士 @[爱丁堡大学信息学院](https://www.ed.ac.uk/informatics)，2019.09 - 2020.11
+### 数据科学硕士 @[爱丁堡大学信息学院](https://www.ed.ac.uk/informatics)，2019.09 - 2020.11
   * 主要课程：
     * 自然语言处理([ANLP](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html)、[NLU](https://www.inf.ed.ac.uk/teaching/courses/nlu/))
     * 机器学习与模式识别([MLPR](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/notes/)、[PMR](https://www.inf.ed.ac.uk/teaching/courses/pmr/19-20/))
     * 数据分析及可视化([DME](http://www.inf.ed.ac.uk/teaching/courses/dme/)、[DV](https://datavis2020.github.io/)、SAS金融分析、OMF金融建模优化)
     * 人机交互([HCI](https://www.ed.ac.uk/global/study-abroad/course/index.php?browseby=subject&browsebysubject=Informatics&course=60266)、[THF](https://wp.inf.ed.ac.uk/thehumanfactor/about/))
 
-数学与经济学学士 @[新泽西州立大学文理学院](https://sas.rutgers.edu/)，2012.09 - 2016.06
+### 数学与经济学学士 @[新泽西州立大学文理学院](https://sas.rutgers.edu/)，2012.09 - 2016.06
+  
   荣誉毕业生, 综合GPA: 3.73/4.00, 专业GPA :3.85/4.00
 
-数学与统计学交换生 @[伦敦大学学院](https://www.ucl.ac.uk/maths/)，2014.09 - 2015.06
+### 数学与统计学交换生 @[伦敦大学学院](https://www.ucl.ac.uk/maths/)，2014.09 - 2015.06
+  
   First Class, 综合GPA: 3.83/4.00
 
 
