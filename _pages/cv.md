@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,8 +14,8 @@ redirect_from:
 因疫情及考试原因，我目前还在爱丁堡，预计6月会回到国内，在准备毕设和考试的同时也在积极寻找相关暑期实习及后续的正职工作
 
 职位偏向：
-  * #1 产品经理（偏数据分析、用户分析方向的互联网应用产品经理，以数据驱动产品开发及迭代）
-  * #2 数据分析师（商业数据分析师/互联网行业的数据分析师等）
+  #1 产品经理（偏数据分析、用户分析方向的互联网应用产品经理，以数据驱动产品开发及迭代）
+  #2 数据分析师（商业数据分析师/互联网行业的数据分析师等）
 
 我的中文简历PDF可戳：[LuoyeWang](http://luoyewang.github.io/files/王洛野_中文简历.pdf)
 
@@ -26,25 +26,18 @@ redirect_from:
 # 简历
 
 ## 教育背景
-* 数据科学硕士 @[爱丁堡大学信息学院](https://www.ed.ac.uk/informatics)，2019.09 - 2020.11
+数据科学硕士 @[爱丁堡大学信息学院](https://www.ed.ac.uk/informatics)，2019.09 - 2020.11
+  * 主要课程：
+    * 自然语言处理([ANLP](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html)、[NLU](https://www.inf.ed.ac.uk/teaching/courses/nlu/))
+    * 机器学习与模式识别([MLPR](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/notes/)、[PMR](https://www.inf.ed.ac.uk/teaching/courses/pmr/19-20/))
+    * 数据分析及可视化([DME](http://www.inf.ed.ac.uk/teaching/courses/dme/)、[DV](https://datavis2020.github.io/)、SAS金融分析、OMF金融建模优化)
+    * 人机交互([HCI](https://www.ed.ac.uk/global/study-abroad/course/index.php?browseby=subject&browsebysubject=Informatics&course=60266)、[THF](https://wp.inf.ed.ac.uk/thehumanfactor/about/))
 
-主要课程：
-  * 自然语言处理([ANLP](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html)、[NLU](https://www.inf.ed.ac.uk/teaching/courses/nlu/))
-    * 稍后更新NLP相关项目
-  * 机器学习与模式识别([MLPR](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/notes/)、[PMR](https://www.inf.ed.ac.uk/teaching/courses/pmr/19-20/))
-    * 稍后更新ML相关项目
-  * 数据分析及可视化([DME](http://www.inf.ed.ac.uk/teaching/courses/dme/)、[DV](https://datavis2020.github.io/)、SAS金融分析、OMF金融建模优化)
-    * 稍后更新相关项目
-  * 人机交互([HCI](https://www.ed.ac.uk/global/study-abroad/course/index.php?browseby=subject&browsebysubject=Informatics&course=60266)、[THF](https://wp.inf.ed.ac.uk/thehumanfactor/about/))
-    * 稍后更新相关项目
+数学与经济学学士 @[新泽西州立大学文理学院](https://sas.rutgers.edu/)，2012.09 - 2016.06
+  荣誉毕业生, 综合GPA: 3.73/4.00, 专业GPA :3.85/4.00
 
-* 数学与经济学学士 @[新泽西州立大学文理学院](https://sas.rutgers.edu/)，2012.09 - 2016.06
-
-荣誉毕业生, 综合GPA: 3.73/4.00, 专业GPA :3.85/4.00
-
-* 数学与统计学交换生 @[伦敦大学学院](https://www.ucl.ac.uk/maths/)，2014.09 - 2015.06
-
-First Class, 综合GPA: 3.83/4.00
+数学与统计学交换生 @[伦敦大学学院](https://www.ucl.ac.uk/maths/)，2014.09 - 2015.06
+  First Class, 综合GPA: 3.83/4.00
 
 
 
