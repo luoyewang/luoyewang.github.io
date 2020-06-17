@@ -1,6 +1,6 @@
 ---
 title: "Past Works"
-collection: Works
+collection: works
 permalink: /works
 excerpt: 'Past works will be added in this page recently'
 date: 2009-10-01
