@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "_teaching"
+		},
+		{
+			"path": "talkmap"
+		},
+		{
+			"path": "markdown_generator"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "files"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "_talks"
+		},
+		{
+			"path": "_sass"
+		},
+		{
+			"path": "_publications"
+		},
+		{
+			"path": "_posts"
+		},
+		{
+			"path": "_portfolio"
+		},
+		{
+			"path": "_pages"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_drafts"
+		},
+		{
+			"path": "_data"
+		}
+	]
+}
