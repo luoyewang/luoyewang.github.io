@@ -12,6 +12,6 @@ Past works will be added in this page recently
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.works reversed %}
   {% include archive-single.html %}
 {% endfor %}
