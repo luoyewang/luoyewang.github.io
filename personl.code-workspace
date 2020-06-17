@@ -47,6 +47,9 @@
 		},
 		{
 			"path": "_data"
+		},
+		{
+			"path": "_works"
 		}
 	]
 }
