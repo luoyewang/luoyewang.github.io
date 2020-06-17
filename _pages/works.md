@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Works"
-permalink: /works/
+permalink: /work/
 author_profile: true
 ---
 Past works will be added in this page recently
@@ -12,6 +12,6 @@ Past works will be added in this page recently
 
 {% include base_path %}
 
-{% for post in site.works reversed %}
+{% for post in site.work reversed %}
   {% include archive-single.html %}
 {% endfor %}
