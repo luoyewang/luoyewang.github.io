@@ -12,7 +12,7 @@ redirect_from:
 
 # 我叫王洛野（Aroyal）
 
-我目前是[爱丁堡大学信息学院](https://www.ed.ac.uk/informatics)数据科学的研究生，毕业设计导师为[Aggelos Kiayias 教授](https://www.kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html) 和 [Maria Wolters 教授](https://www.designinformatics.org/person/maria-wolters/)，目前毕业设计研究方向与用户研究、产品设计及数据因素相关，毕业设计与北京大学[郭耀 教授](http://sei.pku.edu.cn/~yaoguo/)及北京邮电大学[王浩宇 副教授](https://howiepku.github.io/)合作。预计2020年8月中下旬完成毕业设计，同年11月中旬取得毕业照。
+我目前是[爱丁堡大学信息学院](https://www.ed.ac.uk/informatics)数据科学的研究生，毕业设计导师为[Aggelos Kiayias 教授](https://www.kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html) 和 [Maria Wolters 教授](https://www.designinformatics.org/person/maria-wolters/)，目前毕业设计研究方向与用户研究、产品设计及数据因素相关，毕业设计与北京大学[郭耀 教授](http://sei.pku.edu.cn/~yaoguo/)及北京邮电大学[王浩宇 副教授](https://howiepku.github.io/)合作。预计2020年8月中下旬完成毕业设计，同年11月中旬取得毕业证。
 
 我目前已经回到国内，预计7月中旬完成隔离，在准备毕设和考试的同时也在积极寻找相关**暑期实习**及后续的**正职工作**。研究生期间主要涉及课程、工作及项目经验、目标岗位等详见[简历](https://luoyewang.github.io/cv/)
 
